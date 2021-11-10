@@ -1,7 +1,10 @@
+#importing pprint
 import pprint
 
+#importing pytest
 import pytest
 
+#importing the main calculator class
 from calculator.calculator import Calculator
 
 #this is how you define a function that will run each time you pass it to a test, it is called a fixture
@@ -78,4 +81,3 @@ def test_calculator_divide(clear_history):
     assert Calculator.history_count() == 4
     assert Calculator.get_result_of_last_calculation_added_to_history() == 6
     assert Calculator.get_result_of_first_calculation_added_to_history() == 2
-
