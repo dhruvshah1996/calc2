@@ -14,6 +14,8 @@ class Addition(Calculation):
     """This addition class has one method to get the result of the calculation A and B come from the
     calculation parent class"""
 
+    #This is the get result that is being called
     def getresult(self):
-        #you need to use self to reference the data contained in the instance of the object. This is encapsulation
+        #you need to use self to reference the data contained
+        # in the instance of the object. This is encapsulation
         return self.value_a + self.value_b
