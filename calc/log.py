@@ -13,9 +13,8 @@ logging.info("Process Started")
 
 def logging_data(filename, operation, counter):
     counter = counter+1
-    #logger.debug(f'saving details of {filename}..')
     with open('testlog.log','a') as appendFile:
         appendFile.write(f'Filename: {filename} -Record Number: {counter} -TestRan: {operation}\n ')
 
     return appendFile
-logger.info(f"Details saved successfully")
+logger.info(f"Test Saved successfully")
