@@ -14,6 +14,6 @@ setup.py is a config file for pytest
 
 ![](calc/Images/Logfiles.png)
 
-![](calc/Images/Pytest-coverage-report.png)
+![](calc/Images/Pytest_coverage_report.png)
 
-![](calc/Images/Pytest-Report.png)
+![](calc/Images/Pytest_Report.png)
