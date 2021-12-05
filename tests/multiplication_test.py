@@ -4,13 +4,13 @@ import pandas as pd
 import os
 from calc import log
 from calc.calculations.multiplication import Multiplication
-import pathlib
+
 
 dirname = os.path.dirname(os.path.realpath(__file__))
 
 def test_calculation_multiplication():
     """testing addition method with csv inputs"""
-    fileName = 'CSVFiles/Multiplication.csv'
+    fileName = '/Users/dhruvshah/PycharmProjects/calc2/tests/CSVFiles/Multiplication.csv'
     inputFile = os.path.join(fileName)
     df = pd.read_csv("CSVFiles/Multiplication.csv")
     print(df.head(10))
