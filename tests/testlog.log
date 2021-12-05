@@ -1,0 +1,31 @@
+INFO 2021-12-05 18:51:24,192 - Test Saved successfully
+INFO 2021-12-05 18:52:31,451 - Test Saved successfully
+Filename: /Users/dhruvshah/PycharmProjects/calc2/tests/CSVFiles/Multiplication.csv -Record Number: 1 -TestRan: multiplication
+ Filename: /Users/dhruvshah/PycharmProjects/calc2/tests/CSVFiles/Multiplication.csv -Record Number: 2 -TestRan: multiplication
+ Filename: /Users/dhruvshah/PycharmProjects/calc2/tests/CSVFiles/Multiplication.csv -Record Number: 3 -TestRan: multiplication
+ Filename: /Users/dhruvshah/PycharmProjects/calc2/tests/CSVFiles/Multiplication.csv -Record Number: 4 -TestRan: multiplication
+ Filename: /Users/dhruvshah/PycharmProjects/calc2/tests/CSVFiles/Multiplication.csv -Record Number: 5 -TestRan: multiplication
+ Filename: /Users/dhruvshah/PycharmProjects/calc2/tests/CSVFiles/Multiplication.csv -Record Number: 6 -TestRan: multiplication
+ Filename: /Users/dhruvshah/PycharmProjects/calc2/tests/CSVFiles/Multiplication.csv -Record Number: 7 -TestRan: multiplication
+ Filename: /Users/dhruvshah/PycharmProjects/calc2/tests/CSVFiles/Multiplication.csv -Record Number: 8 -TestRan: multiplication
+ Filename: /Users/dhruvshah/PycharmProjects/calc2/tests/CSVFiles/Multiplication.csv -Record Number: 9 -TestRan: multiplication
+ Filename: /Users/dhruvshah/PycharmProjects/calc2/tests/CSVFiles/Multiplication.csv -Record Number: 10 -TestRan: multiplication
+ INFO 2021-12-05 18:53:03,493 - Test Saved successfully
+Filename: CSVFiles/Subtraction.csv -Record Number: 1 -TestRan: subtraction
+ Filename: CSVFiles/Subtraction.csv -Record Number: 2 -TestRan: subtraction
+ Filename: CSVFiles/Subtraction.csv -Record Number: 3 -TestRan: subtraction
+ INFO 2021-12-05 18:53:32,779 - Test Saved successfully
+Filename: CSVFiles/Subtraction.csv -Record Number: 1 -TestRan: division
+ Filename: CSVFiles/Subtraction.csv -Record Number: 2 -TestRan: division
+ INFO 2021-12-05 18:53:42,489 - Test Saved successfully
+Filename: CSVFiles/Addition.csv -Record Number: 1 -TestRan: addition
+ Filename: CSVFiles/Addition.csv -Record Number: 2 -TestRan: addition
+ Filename: CSVFiles/Addition.csv -Record Number: 3 -TestRan: addition
+ Filename: CSVFiles/Addition.csv -Record Number: 4 -TestRan: addition
+ Filename: CSVFiles/Addition.csv -Record Number: 5 -TestRan: addition
+ Filename: CSVFiles/Addition.csv -Record Number: 6 -TestRan: addition
+ Filename: CSVFiles/Addition.csv -Record Number: 7 -TestRan: addition
+ Filename: CSVFiles/Addition.csv -Record Number: 8 -TestRan: addition
+ Filename: CSVFiles/Addition.csv -Record Number: 9 -TestRan: addition
+ Filename: CSVFiles/Addition.csv -Record Number: 10 -TestRan: addition
+ 
